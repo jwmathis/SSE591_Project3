@@ -1,0 +1,10 @@
+https://www.kaggle.com/datasets/sanjeetsinghnaik/top-1000-highest-grossing-movies
+https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows#
+	Analysis to do on movie database
+		Analysis of gross of a movie vs directors
+		Analysis of gross of a movie vs different stars
+		Analysis of no. of votesvs directors
+		Analysis of no. of votes vs different stars
+		which actor preferred which genre
+		which combination of actors are get good IMBd ratings
+		which combination of actors are getting good gross

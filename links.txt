@@ -1,1 +1,2 @@
 https://www.kaggle.com/datasets/sanjeetsinghnaik/top-1000-highest-grossing-movies
+https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows#

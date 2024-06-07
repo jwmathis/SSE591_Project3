@@ -8,3 +8,5 @@ https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movie
 		which actor preferred which genre
 		which combination of actors are get good IMBd ratings
 		which combination of actors are getting good gross
+
+https://www.kaggle.com/code/deepak525/investigate-tmdb-movie-dataset
